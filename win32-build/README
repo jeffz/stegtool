@@ -1,0 +1,8 @@
+This is a windows build of stegtool https://github.com/djhworld/stegtool.
+
+It was built under wine-6.2 (https://www.winehq.org), with rust-1.50.0-i686-pc-windows-gnu.msi (https://www.rust-lang.org/).
+
+$ sha1sum stegtool.exe 
+749b30746e54191c89550c91d9fd4663e0b41f4e  stegtool.exe
+
+
